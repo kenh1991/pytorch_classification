@@ -1,4 +1,5 @@
 # pytorch_classification
+flask实现模型云端部署
 
 利用pytorch实现图像分类，其中包含的densenet，resnext，mobilenet，efficientnet, resnet等图像分类网络，可以根据需要再行利用torchvision扩展其他的分类算法
 
